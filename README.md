@@ -16,8 +16,7 @@ Step1 — Getting Training Data-
 We provided sufficient sample images ( dataset ) of the apples we need the model to
 detect and identify. We amended the YOLOV3 algorithm for detecting and counting
 apples as well as identify rotten apples in images. We used the following dataset:
-https://github.com/OlafenwaMoses/AppleDetection/releases/download/v1/apple_
-detection_dataset.zip
+https://github.com/OlafenwaMoses/AppleDetection/releases/download/v1/apple_detection_dataset.zip
 It is divided into:
 1. 563 images for training the AI model
 2. 150 images for testing the trained AI model
