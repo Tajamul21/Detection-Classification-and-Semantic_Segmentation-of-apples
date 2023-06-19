@@ -1,3 +1,4 @@
+# An integral computer vision system for apple detection, classification, and semantic segmentation
 Aim:To use computer vision to aid agricultural robotics.
 1. Identification of fruits in a tree
 2. Read and understand a fruit detection algorithm using semantic segmentation.
